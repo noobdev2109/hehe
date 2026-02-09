@@ -54,10 +54,10 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "are you sure?",
     "really sure??",
     "think again.",
-    "pls babi D:",
+    "pls babi",
     "really niga",
     "if you say nio, i will be really sad...",
     "i will be very sad.",
